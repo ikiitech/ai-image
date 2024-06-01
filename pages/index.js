@@ -13,7 +13,7 @@ export default function About() {
         <strong>Inpainting</strong> is a process where missing parts of an
         artwork are filled in to present a complete image. This{" "}
         <a className="underline" href="https://github.com/zeke/inpainter">
-          open-source demo
+          open-source
         </a>{" "}
         uses the{" "}
         <a
